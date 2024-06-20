@@ -1,19 +1,19 @@
 <div align="center">
-  <a href="https://sumit-kumar100.github.io/resume/" target="_blank">  
-    <img alt="Logo" src="https://sumit-kumar100.github.io/resume/packages/images/logo.webp" width="50" />
+  <a href="https://github.com/rohit-kumar7053/resume" target="_blank">  
+    <img alt="Logo" src="https://github.com/rohit-kumar7053/resumepackages/images/logo.webp" width="50" />
   </a>
 </div>
 <h1 align="center">
-  sumitkumar.github.io - v2
+  rohitkumar.github.io - v2
 </h1>
 <p align="center">
-  The second iteration of <a href="https://sumit-kumar100.github.io/resume/" target="_blank">sumitkumar.github.io</a> built with HTML, CSS, JavaScript and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
+  The second iteration of <a href="https://github.com/rohit-kumar7053/resume" target="_blank">rohitkumar.github.io</a> built with HTML, CSS, JavaScript and hosted with <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>
 </p>
 
 <!-- website version -->
 <!-- <p align="center">
   Previous versions:
-  <a href="https://sumit-kumar100.github.io/resume/" target="_blank">v1</a>
+  <a href="https://github.com/rohit-kumar7053/resume" target="_blank">v1</a>
 </p> -->
 
 <p align="center">
@@ -36,7 +36,7 @@
 ✔️ Projects\
 ✔️ Contact
 
-Check this out, **[Live URL](https://sumit-kumar100.github.io/resume)**
+Check this out, **[Live URL](https://github.com/rohit-kumar7053/resume)**
 
 ## Tech Stacks & Tools Used 🛠️
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,javascript,git,github,vscode&theme=light)](#)
@@ -50,7 +50,7 @@ Check this out, **[Live URL](https://sumit-kumar100.github.io/resume)**
 
 ## 🚨 Forking this repo (please read!)
 
-This repository is fully Open Source, Feel free to fork this, yes you heard it right - you can fork this repo without asking anyone. Before that please give me a star, fork it, and customize it as per your wish. If you face any difficulty you can connect with me <a href="mailto:summysumit100@gmail.com">summysumit100@gmail.com</a>.
+This repository is fully Open Source, Feel free to fork this, yes you heard it right - you can fork this repo without asking anyone. Before that please give me a star, fork it, and customize it as per your wish. If you face any difficulty you can connect with me <a href="mailto:ronak3262@gmail.com">ronak3262@gmail.com</a>.
 
 - Give a start (:star:) and then click on fork (:fork_and_knife:) to your account.
 - Clone your repo and modify the content of <b>index.html</b> according to your requirement.
