@@ -240,6 +240,12 @@ img {
 .nav__toggle {
   color: var(--title-color);
   font-weight: var(--font-medium);
+  height: 75px;
+  width: 80px;
+}
+.nav_logo{
+  height: 70px;
+  width: 70px;
 }
 
 .nav__logo:hover {
